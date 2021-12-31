@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ash! _(she/they)_
-* 🌱 I’m a full-stack JS/Python developer.
-* 📫 How to reach me ... plants.n.programming@gmail.com
+ 🌱 I’m a full-stack JS/Python developer.
+
 
 ### Connect with me
 
