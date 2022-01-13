@@ -1,5 +1,10 @@
-# 👋 Hi, I’m Ash! _(she/they)_
- 🌱 I’m a full-stack JS/Python developer.
+# 👋 Hi, I’m Ash! _(she/they)_ 
+
+ 💻 [My Portfolio](https://ashleighctucker.github.io/ash/) </br>
+ 🌱 I’m a full-stack JS/Python developer.  </br>
+ 🪴 I collect plants. </br>
+ 📍 Currently in the Bay Area. </br>
+ 🐈‍⬛ 🦎 3 cats & 2 lizards </br>
 
 
 ### Connect with me
